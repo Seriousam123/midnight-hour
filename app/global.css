@@ -368,6 +368,7 @@ body {
 /* ── NEWSLETTER ── */
 .newsletterSection {
   background: var(--deep);
+  border-top: 3px solid var(--yellow);
   border-bottom: 1px solid var(--gray);
   padding: 60px 48px;
   text-align: center;
