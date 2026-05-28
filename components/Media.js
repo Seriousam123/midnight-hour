@@ -13,11 +13,10 @@ export default function Media() {
     { src: '/media/6.png', caption: 'Screenshot 6' },
     { src: '/media/7.png', caption: 'Screenshot 7' },
     { src: '/media/8.png', caption: 'Screenshot 8' },
-    { src: '/media/9.png', caption: 'Screenshot 9' },
-    { src: '/media/10.png', caption: 'Screenshot 10' },
-    { src: '/media/11.png', caption: 'Screenshot 11' },
-    { src: '/media/12.png', caption: 'Screenshot 12' },
-    { src: '/media/13.png', caption: 'Screenshot 13' },
+    { src: '/media/10.png', caption: 'Screenshot 9' },
+    { src: '/media/11.png', caption: 'Screenshot 10' },
+    { src: '/media/12.png', caption: 'Screenshot 11' },
+    { src: '/media/13.png', caption: 'Screenshot 12' },
   ];
 
   const prev = () => setSelected((i) => (i === 0 ? images.length - 1 : i - 1));
