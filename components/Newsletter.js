@@ -5,7 +5,7 @@ export default function Newsletter() {
       <p>Get updates, patch notes and early access drops straight to your inbox.</p>
 
       <form
-        action="https://gmail.us22.list-manage.com/subscribe/post?u=e9795a2608724b96d3c91ad4c&amp;id=58415ae77b&amp;f_id=0086c2e1f0"
+        action="https://midnighthourgame.us16.list-manage.com/subscribe/post?u=772e792126471fafe9a4fa7bb&id=af3434fd36&f_id=00b326e1f0"
         method="post"
         target="_blank"
         className="newsletterForm"
