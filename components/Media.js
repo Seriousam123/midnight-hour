@@ -17,6 +17,10 @@ export default function Media() {
     { src: '/media/11.png', caption: 'Screenshot 10' },
     { src: '/media/12.png', caption: 'Screenshot 11' },
     { src: '/media/13.png', caption: 'Screenshot 12' },
+    { src: '/media/14.png', caption: 'Screenshot 13' },
+    { src: '/media/15.png', caption: 'Screenshot 14' },
+    { src: '/media/16.png', caption: 'Screenshot 15' },
+    { src: '/media/17.png', caption: 'Screenshot 16' },
   ];
 
   const prev = () => setSelected((i) => (i === 0 ? images.length - 1 : i - 1));
